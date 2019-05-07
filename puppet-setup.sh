@@ -7,4 +7,4 @@ apt install puppet-common puppet-module-puppetlabs-postgresql puppet-module-pupp
 puppet module install stankevich-python
 
 # Get the module for using unattended apt upgrades (an old version that still works on Puppet 3).
-puppet module install puppet-unattended_upgrades --version 2.2.0
+# puppet module install puppet-unattended_upgrades --version 2.2.0
